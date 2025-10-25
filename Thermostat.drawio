@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
+  <diagram name="Page-1" id="tIDh99Yv6BTX3EbSSz53">
+    <mxGraphModel dx="731" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-1" target="zcTM9YWFstVlqwSi4tAH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-1" value="Green button&lt;div&gt;Initial state: off&lt;/div&gt;&lt;div&gt;Initial temp: 72 F&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-2" target="zcTM9YWFstVlqwSi4tAH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-2" target="zcTM9YWFstVlqwSi4tAH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-2" target="zcTM9YWFstVlqwSi4tAH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-2" value="Green button&lt;div&gt;state: Cool set&lt;/div&gt;&lt;div&gt;Blue LED on&lt;/div&gt;&lt;div&gt;Red LED off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-22" target="zcTM9YWFstVlqwSi4tAH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-21" target="zcTM9YWFstVlqwSi4tAH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-3" target="zcTM9YWFstVlqwSi4tAH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-3" target="zcTM9YWFstVlqwSi4tAH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-3" target="zcTM9YWFstVlqwSi4tAH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-3" value="Green button&lt;div&gt;state: Heat set&lt;/div&gt;&lt;div&gt;Red LED on&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-4" target="zcTM9YWFstVlqwSi4tAH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-4" value="Sensor reads temp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-9" value="Red LED blink if temp set above sensor reading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-10" value="Blue LED on if temp set equal to sensor reading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-11" value="Red LED on if temp set equal to or below sensor reading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-12" value="Blue LED blink if temp set below sensor reading" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-21" value="Blue button&lt;div&gt;decrease temp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-22" value="Red button&lt;div&gt;increase temp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-26" target="zcTM9YWFstVlqwSi4tAH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-26" value="Red button&lt;div&gt;increase temp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-27" target="zcTM9YWFstVlqwSi4tAH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-27" value="Blue button&lt;div&gt;decrease temp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-28" target="zcTM9YWFstVlqwSi4tAH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="900" />
+              <mxPoint x="40" y="900" />
+              <mxPoint x="40" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zcTM9YWFstVlqwSi4tAH-28" target="zcTM9YWFstVlqwSi4tAH-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-28" value="Green button&lt;div&gt;state: off set&lt;/div&gt;&lt;div&gt;Blue LED off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcTM9YWFstVlqwSi4tAH-38" value="ctr + c" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
